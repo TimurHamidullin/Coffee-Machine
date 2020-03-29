@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Coffee_Machine-task_main" target="11" />
+      <module name="Coffee_Machine-task_test" target="11" />
+      <module name="Problems-Account_and_its_owner_main" target="11" />
+      <module name="Problems-Account_and_its_owner_test" target="11" />
+      <module name="Problems-Account_main" target="11" />
+      <module name="Problems-Account_test" target="11" />
+      <module name="Problems-Accounts_main" target="11" />
+      <module name="Problems-Accounts_test" target="11" />
+      <module name="Problems-Balance_management_main" target="11" />
+      <module name="Problems-Balance_management_test" target="11" />
+      <module name="Problems-Binary_search_main" target="11" />
+      <module name="Problems-Binary_search_test" target="11" />
+      <module name="Problems-Book_main" target="11" />
+      <module name="Problems-Book_test" target="11" />
+      <module name="Problems-Car_main" target="11" />
+      <module name="Problems-Car_test" target="11" />
+      <module name="Problems-Complex_numbers__1__main" target="11" />
+      <module name="Problems-Complex_numbers__1__test" target="11" />
+      <module name="Problems-Complex_numbers_main" target="11" />
+      <module name="Problems-Complex_numbers_test" target="11" />
+      <module name="Problems-Counter_main" target="11" />
+      <module name="Problems-Counter_test" target="11" />
+      <module name="Problems-Danger_levels_main" target="11" />
+      <module name="Problems-Danger_levels_test" target="11" />
+      <module name="Problems-Days_of_week_main" target="11" />
+      <module name="Problems-Days_of_week_test" target="11" />
+      <module name="Problems-Geometric_cube_main" target="11" />
+      <module name="Problems-Geometric_cube_test" target="11" />
+      <module name="Problems-Getting_the_fullname_main" target="11" />
+      <module name="Problems-Getting_the_fullname_test" target="11" />
+      <module name="Problems-I_like_Kotlin_main" target="11" />
+      <module name="Problems-I_like_Kotlin_test" target="11" />
+      <module name="Problems-In_a_box_main" target="11" />
+      <module name="Problems-In_a_box_test" target="11" />
+      <module name="Problems-Inner_boxes_main" target="11" />
+      <module name="Problems-Inner_boxes_test" target="11" />
+      <module name="Problems-Integer_part_of_a_number_main" target="11" />
+      <module name="Problems-Integer_part_of_a_number_test" target="11" />
+      <module name="Problems-Patient_needs_a_doctor_main" target="11" />
+      <module name="Problems-Patient_needs_a_doctor_test" target="11" />
+      <module name="Problems-Raise_to_the_power_main" target="11" />
+      <module name="Problems-Raise_to_the_power_test" target="11" />
+      <module name="Problems-Simulating_a_clock_main" target="11" />
+      <module name="Problems-Simulating_a_clock_test" target="11" />
+      <module name="Problems-Test_learners_main" target="11" />
+      <module name="Problems-Test_learners_test" target="11" />
+      <module name="Problems-The_largest_element_of_a_sequence_main" target="11" />
+      <module name="Problems-The_largest_element_of_a_sequence_test" target="11" />
+      <module name="Problems-User_main" target="11" />
+      <module name="Problems-User_test" target="11" />
+      <module name="Problems-Users_main" target="11" />
+      <module name="Problems-Users_test" target="11" />
+      <module name="Problems-Vowel_or_not_main" target="11" />
+      <module name="Problems-Vowel_or_not_test" target="11" />
+      <module name="Problems-Your_name_main" target="11" />
+      <module name="Problems-Your_name_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
